@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://k1mk-7388.github.io/sitemap.xml
